@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently looking for work
 
-- 🌱 I’m currently learning **JavaScript and Python**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/jesús-clemente-pérez) or by [mail](mailto:jmclementeperez@gmail.com)
 

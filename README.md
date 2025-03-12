@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working with **React**
 
-- 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/jesús-clemente-pérez) or by [mail](mailto:jmclementeperez@gmail.com)
+- 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/jesús-clemente-pérez) or by [mail](mailto:jescleper@gmail.com)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jasusmet&show_icons=true&theme=radical)
 
